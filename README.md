@@ -4,11 +4,11 @@
 ![Rice31-hairball2-768x709](https://user-images.githubusercontent.com/91129320/148690128-0abd9e71-6735-4c1e-82c0-c8b52ada8dc9.png)
 
 
-# Real-world/Business
+# Real-world / Business
 
 ### Problem Statment
 
-Given a directed graph of Instagram data, you have to predict missing or possible futures links between users.
+Given a directed graph of Instagram's data, we have to predict missing or possible futures links between users and by links here we mean frienship or following relationship.
 
 *****************************
 
