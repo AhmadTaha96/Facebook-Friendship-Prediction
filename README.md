@@ -59,3 +59,22 @@ data contain two columns source and destination node for each row and it's as fo
     - destination_node    int64 
 
 *****************************
+
+### Project Hierarchy
+
+1. Getting Data
+2. Exploratory Data Analysis 1
+3. Exploratory Data Analysis 2
+4. Exploratory Data Analysis 3
+5. Generating Dataset
+6. Local Similarity Implementation
+7. Local Similarity Creation
+8. Global Similarites Features
+9. General Features Design
+10. Reformatting Data
+11. Create Sorted Graph
+12. Graph Embedding
+13. Machine Learning Model
+14. Deep Learning Model
+15. Final Result 1
+16. Final Result 2
