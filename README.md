@@ -78,3 +78,11 @@ data contain two columns source and destination node for each row and it's as fo
 14. Deep Learning Model
 15. Final Result 1
 16. Final Result 2
+
+*****************************
+
+### Data Files
+
+All data and models files can be downloaded from the following link:
+https://mega.nz/folder/dgAnnbBA#g8hcWcQC2ooXkuFopCbDdw
+Link: 
